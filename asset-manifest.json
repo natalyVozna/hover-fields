@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hover-fields/static/css/main.38848c77.css",
+    "main.js": "/hover-fields/static/js/main.d7974fc4.js",
+    "static/js/787.4ea8c188.chunk.js": "/hover-fields/static/js/787.4ea8c188.chunk.js",
+    "index.html": "/hover-fields/index.html",
+    "main.38848c77.css.map": "/hover-fields/static/css/main.38848c77.css.map",
+    "main.d7974fc4.js.map": "/hover-fields/static/js/main.d7974fc4.js.map",
+    "787.4ea8c188.chunk.js.map": "/hover-fields/static/js/787.4ea8c188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38848c77.css",
+    "static/js/main.d7974fc4.js"
+  ]
+}
