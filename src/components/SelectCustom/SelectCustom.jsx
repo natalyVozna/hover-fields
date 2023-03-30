@@ -21,7 +21,6 @@ export const SelectCustom = ({ options, onSendField }) => {
     setSelectedOption(value.name);
     setIsOpen(false);
     onSendField(value.field);
-    console.log(selectedOption);
   };
 
   return (

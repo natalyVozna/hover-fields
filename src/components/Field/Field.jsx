@@ -36,7 +36,6 @@ export const Field = () => {
   }, [fetchData]);
 
   const onStartAction = (event) => {
-    console.log("start");
     setIsStart(!isStart);
   };
 
@@ -49,8 +48,6 @@ export const Field = () => {
       }
     });
   };
-
-  console.log(hoverSquares);
 
   return (
     <Container>
